@@ -1,4 +1,4 @@
-# Restaurant_TableReservation
+# Restaurant_TableReservation (Designed by me During my internship in Bachelor's)
 
 The project's basis is an online ordering platform that customers are able to reserve the desired table and menu from a restaurant at their convenience.
 
