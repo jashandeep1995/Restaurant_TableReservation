@@ -46,7 +46,7 @@ b. Cancellation of the order
 
 - Admin also has the functionality to cancel the order.
 
-b. Create Teams’s list
+c. Create Teams’s list
 
 - Admin can create a new entry of team or edit the existing teams’s information from the team’s list.
 
@@ -54,7 +54,7 @@ d. Blocking specific customer
 
 - Before registering, an administrator can prohibit a specific user. When a customer has a poor track record, such as when he consistently fails to show up to pick up previously placed orders, this occurs.
 
-f. some privileges 
+e. some privileges 
 
 - The privileges include editing the status of the order, i.e. he can enter the status as ready if he has completed that item or can change the order is in process before preparing that item.
 
