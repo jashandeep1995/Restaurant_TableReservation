@@ -280,7 +280,7 @@ $fet_add=mysql_fetch_array(mysql_query("select * from tb_address where Email='$_
                             </div>
                             <div class="row">
                                 <div class="col-md-12">
-                                    <div class="big-number"><a href="#">9876474112</a></div>
+                                    <div class="big-number"><a href="#">XXXXX</a></div>
                                 </div>
                             </div>
                         </div>
