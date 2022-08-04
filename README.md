@@ -18,11 +18,11 @@ Customer Functionalities
 
 a. Search Menu according to the time of order delivery
 
-- During login, the main page will appear and customer can see menu items accordingly. As availability of items differ from time to time.
+- The main page will show after logging in, and customers can access the menu options there. Because product availability varies from time to time.
 
 b. Allow to search menu according to category
 
-- Customers can search menu according to category , this functionality will be working as a search criteria i.e. search criteria will be according to category.
+- Customers may search the menu according to category; this capability will operate as a search criteria, i.e., the category will be the search criteria.
 
 c. Allow to book order
 
@@ -30,7 +30,7 @@ c. Allow to book order
 
 d. Allow the customer to edit/create his personal account (membership)
 
-- Here customer can create his new account or he can edit his personal information from the existing account.
+- Customer can create his new account or he can edit his personal information from the existing account.
 
 e. Allow customer an option to change his password
 
@@ -42,9 +42,9 @@ a. Edit Menu records
 
 - Admin can edit/create some or whole part of the menu record on daily basis. That is by changing the menu items, prices, description, etc.
 
-b. Cancellation the order
+b. Cancellation of the order
 
-- Admin can cancel of the order, this situation comes when the something goes wrong with working or in some unusual situations.
+- Admin also has the functionality to cancel the order.
 
 b. Create Teams’s list
 
@@ -52,11 +52,9 @@ b. Create Teams’s list
 
 d. Blocking specific customer
 
-- Admin can block a particular customer before signing up. This happens when the customer’s previous history is bad, i.e. if he does not come up to take his orders which
-were ordered previously.
+- Before registering, an administrator can prohibit a specific user. When a customer has a poor track record, such as when he consistently fails to show up to pick up previously placed orders, this occurs.
 
 f. some privileges 
 
-- The privileges include editing the status of the order, i.e. he can enter the status as ready if he has completed that item or can state the order is in process before preparing
-that item.
+- The privileges include editing the status of the order, i.e. he can enter the status as ready if he has completed that item or can change the order is in process before preparing that item.
 
