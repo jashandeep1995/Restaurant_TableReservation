@@ -1,5 +1,5 @@
 <?php
-// include_once("Admin/database.php");
+include_once("Admin/database.php");
 session_start();
 ?>
 <!DOCTYPE HTML>
